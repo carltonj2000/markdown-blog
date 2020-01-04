@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1576137600,
+    "title": "Hello All",
+    "author": "Cheryl Adrian",
+    "date": "December 12, 2019",
+    "content": "\n# Hey Everyone!\n\n_My blog is better than Dave's._\n\nYou may know me from my other blog, \"No Sleep Till Deployment\", which is all about my life as a senior developer at a large tech company.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OH35UAqHLi0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"
+  },
+  {
+    "id": 1576051200,
+    "title": "My First Post, Yo!",
+    "author": "Carlton Joseph",
+    "date": "December 11, 2019",
+    "content": "\n# Welcome to My Blog.\n\n_It's a beautiful thing._\nI hope you'll have as much fun reading my posts as I have writing them. Well, before we go any further, allow me to introduce myself. I'm Carlton and I'm from Las Vegas.\n"
+  }
+]

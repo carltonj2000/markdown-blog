@@ -1,0 +1,52 @@
+h1 {
+  font-family: "Raleway";
+  font-weight: 500;
+  margin: 0;
+}
+
+.header {
+  background: navy;
+  color: lightblue;
+  padding: 10px 20px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.postlist {
+  margin: auto;
+  width: 60%;
+  padding: 100px;
+}
+
+.post-card {
+  text-align: left;
+  font-family: "Raleway";
+  border: 1px solid lightblue;
+  margin-bottom: 20px;
+  padding: 0 20px;
+}
+
+.navbar {
+  background-color: yellow;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.links {
+  text-decoration: none;
+  color: brown;
+}
