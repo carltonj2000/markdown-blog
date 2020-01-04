@@ -1,5 +1,8 @@
 # Markdown Blog
 
+Deployed at
+https://carltonj2000.github.io/markdown-blog/
+
 ## History
 
 The code in this repository is based on the following videos.
